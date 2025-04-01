@@ -1,8 +1,6 @@
-# 💫 About Me:
-
 # 👋 Welcome to My GitHub Profile!  
 
-## 💻 About Me  
+## 💫 About Me  
 
 🎓 **Data Science and Computer Science Student** at **IUT2 UGA**  
 🚀 Passionate about exploring various fields through hands-on projects  
