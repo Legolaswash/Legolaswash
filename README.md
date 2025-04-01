@@ -17,7 +17,7 @@ I work on multiple projects across different domains to broaden my experience. Y
 💼 [Dorian Relave - LinkedIn](https://www.linkedin.com/in/dorian-relave-7155a6269/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Legolaswash&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Legolaswash&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=Legolaswash&theme=github_dark&hide_border=false) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Legolaswash&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
