@@ -7,7 +7,7 @@
 🔬 Always experimenting and learning new technologies  
 
 ## 📂 My Projects  
-I work on multiple projects across different domains to broaden my experience. You can check my academic projects here:  📌 [CodesProjects_Tracked](https://github.com/Legolaswash/CodesProjects_Tracked)
+I work on multiple projects across different domains to broaden my experience. You can check my academic projects here :  📌 [CodesProjects_Tracked](https://github.com/Legolaswash/CodesProjects_Tracked)
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
